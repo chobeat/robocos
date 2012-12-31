@@ -10,7 +10,7 @@ public class Main {
 		a.init("a", b);
 		b.init("b", c);
 		c.init("c");
-		a.handle("D");
+		a.handle("b");
 	}
 
 }
